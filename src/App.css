@@ -1,0 +1,12 @@
+#root {
+  color: red;
+}
+
+.app-container {
+  display: flex;
+  width: 100vw;
+}
+
+.sections-container {
+  display: flex;
+}
